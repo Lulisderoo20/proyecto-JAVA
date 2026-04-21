@@ -1,5 +1,5 @@
 // `package` indica en que grupo logico vive esta clase (la o las clases que se definen en este archivo).
-// Java usa paquetes para ordenar el codigo y evitar choques de nombres.
+// Java usa paquetes para ordenar el codigo y evitar choques de nombres por si hay 2 clases con el mismo nombre, pero van a ser de distintos paquetes entonces ahi no pasa nada.
 package com.empresa.seguridad;
 
 // `import` permite usar clases de otros paquetes sin escribir
