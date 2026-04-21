@@ -4,6 +4,10 @@ package com.empresa.seguridad;
 
 // `import` permite usar clases de otros paquetes sin escribir
 // su nombre completo en cada linea.
+// En este archivo esta la clase principal que arranca la aplicacion.
+// Para hacerlo, necesita usar otras clases del proyecto definidas en otros archivos y tambien clases de Java.
+// nota: si quiero usar una clase del mismo paquete, no necesito importarla, la uso asi sin mas.
+// Por eso abajo aparecen varios `import`.
 import com.empresa.seguridad.http.CustomerHandler;
 import com.empresa.seguridad.http.HealthHandler;
 import com.empresa.seguridad.http.LoginHandler;
