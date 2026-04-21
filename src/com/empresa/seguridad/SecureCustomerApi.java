@@ -1,4 +1,4 @@
-// `package` indica en que grupo logico vive esta clase.
+// `package` indica en que grupo logico vive esta clase (la o las clases que se definen en este archivo).
 // Java usa paquetes para ordenar el codigo y evitar choques de nombres.
 package com.empresa.seguridad;
 
